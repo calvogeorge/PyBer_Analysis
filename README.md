@@ -10,7 +10,7 @@ The objective of this analysis is to visually show the weekly fare for PyBer rid
 
 As shown in the line graph below, the total fare for urban cities are by far much higher than for suburban and rural cities. The line graph also shows that rural cities fare per week have been relatively flat, which suggests there has been little growth in fare collected weekly in this type of cities. The fares by week for urban and suburban cities show that the fare by week have increase from January to the end of April.
 
-![alt text](http://url/to/img.png)
+![Pyber Fare Summary](https://github.com/calvogeorge/PyBer_Analysis/blob/d3b841c14e6b172b324f1198e7d66f60c03dff44/PyBer_fare_summary.png)
 
 ## Summary
 
